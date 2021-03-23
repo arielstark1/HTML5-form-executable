@@ -1,0 +1,39 @@
+
+.body{
+
+    background-color: aquamarine;
+
+    }
+.linea{
+
+    background-color: #f8d7da;
+}
+
+
+
+
+.fuente{ 
+  border: 1px solid black;
+  margin: 0 ;
+  background-color: white;
+  display:flex;
+  font-size: 10px;
+       
+
+}
+.name{
+    font-size: 15px;
+    margin: 0 ;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+.position-visa{
+
+    background-color: black;
+}
+.card-footer{
+    float: right;
+}
